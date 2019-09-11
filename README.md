@@ -1,4 +1,4 @@
-Peak-Detector Data Processor
+Peak-Detector Data Consumer
 ==========================
 
 Author
